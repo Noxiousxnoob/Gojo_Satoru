@@ -120,7 +120,7 @@ WHITELIST_USERS = Config.WHITELIST_USERS
 
 
 
-defult_dev = [6498551799] + [int(OWNER_ID)]
+defult_dev = [5154912723] + [int(OWNER_ID)]
 
 Defult_dev = set(defult_dev)
 
